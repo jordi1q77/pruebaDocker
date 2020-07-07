@@ -1,5 +1,4 @@
-//especificar qué módulos de NPM hay que descargar 
-//una vez creado el contenedor
+
 {
     "name":"dockernode",
     "version":"1.0.0",
