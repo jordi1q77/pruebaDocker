@@ -1,16 +1,23 @@
-
 {
-    "name":"dockernode",
-    "version":"1.0.0",
-    "description":"",
-    "main":"index.js",
-    "scripts":{
-    "test":"echo \"Error: no test specified\"&& exit 1", 
-    "start":"node index.js"
-    },
-    "author": "",
-     "license":"MIT",
-      "dependencies":{
-           "express":"^4.17.1" 
-        }
-    }
+  "name": "docker_web_server",
+  "version": "2.0.0",
+  "description": "Este repo me servirá para aprender a utilizar docker en local",
+  "main": "test0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"&& exit 1",
+    "start": "node test0.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordi1q77/pruebaDocker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jordi1q77/pruebaDocker/issues"
+  },
+  "homepage": "https://github.com/jordi1q77/pruebaDocker#readme"
+}
